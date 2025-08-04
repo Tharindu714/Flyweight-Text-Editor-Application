@@ -3,7 +3,9 @@
 **TC Text Editor** is a sleek, high-performance Java Swing application showcasing the **Flyweight Design Pattern**. Built with clean code and Maven, it delivers an intuitive UI and extreme memory efficiency—ideal for editing large documents with thousands of styled characters.
 
 ---
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/2370457c-236a-4066-9d10-ee6890ecfd3c" />
 
+---
 ## 🌟 Key Features
 
 * **Rich Text Editing**: Bold, italic, color, font family & size controls
